@@ -28,7 +28,7 @@
 1. `advertising.ipynb` 실행
 
 ## 프로젝트 파일 구조
-ADVERTISING/
+ADVERTISING/  
 ├─ data/  
 ├─ utils/  
 ├─ .gitattributes  
