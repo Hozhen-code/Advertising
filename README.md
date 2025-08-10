@@ -2,7 +2,7 @@
 
 ## 개요
 - **목표:** TV, Radio, Newspaper, 광고비 데이터를 기반으로 제품 판매량을 예측하는 **선형회귀** 모델을 구현
-- **알고리즘:** Linear regression, RandomForest, XGBoost
+- **알고리즘:** Linear regression
 - **핵심 포인트:**
   - statsmodels, sklearn linear regression
   - 회귀분석결과 지표를 보고 모델 성능 해석하기
@@ -29,13 +29,13 @@
 
 ## 프로젝트 파일 구조
 ADVERTISING/
-│── data/
-│── utils/
-│── .gitattributes
-│── .gitignore
-│── advertising.ipynb
-│── README.md
-└── requirements.txt
+├─ data/
+├─ utils/
+├─ .gitattributes
+├─ .gitignore
+├─ advertising.ipynb
+├─ README.md
+└─ requirements.txt
 
 ## 결과물
 - 데이터 로드 및 target 변수와 각 변수간의 상관관계 파악
