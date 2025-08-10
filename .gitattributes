@@ -1,4 +1,4 @@
-* text=auto
+* text=auto eol=lf
 
 # 코드/노트북/문서: LF로 통일
 *.py     text eol=lf

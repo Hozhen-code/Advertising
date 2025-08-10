@@ -4,9 +4,9 @@
 - **목표:** TV, Radio, Newspaper, 광고비 데이터를 기반으로 제품 판매량을 예측하는 **선형회귀** 모델을 구현
 - **알고리즘:** Linear regression, RandomForest, XGBoost
 - **핵심 포인트:**
-  - 
-  - 
-  - 
+  - statsmodels, sklearn linear regression
+  - 회귀분석결과 지표를 보고 모델 성능 해석하기
+  - 선형성, 등분산성, 정규성 확인하고 특징 파악하기
 
 ## 사용 데이터
 - **Dataset**: [Advertising Dataset](https://www.kaggle.com/datasets/ashydv/advertising-dataset)
