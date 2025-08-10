@@ -29,13 +29,13 @@
 
 ## 프로젝트 파일 구조
 ADVERTISING/
-├─ data/
-├─ utils/
-├─ .gitattributes
-├─ .gitignore
-├─ advertising.ipynb
-├─ README.md
-└─ requirements.txt
+├─ data/  
+├─ utils/  
+├─ .gitattributes  
+├─ .gitignore  
+├─ advertising.ipynb  
+├─ README.md  
+└─ requirements.txt  
 
 ## 결과물
 - 데이터 로드 및 target 변수와 각 변수간의 상관관계 파악
